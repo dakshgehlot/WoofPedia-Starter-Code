@@ -15,5 +15,7 @@ class DogApi{
 
   // TODO: Install http package
   // TODO: Implement getData()
+  // API 1: https://api.thedogapi.com/v1/breeds/search?q=$inputBreedName
+  // API 2: https://api.thedogapi.com/v1/images/$imgRefId
 
 }
